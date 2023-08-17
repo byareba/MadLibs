@@ -1,5 +1,5 @@
-In <adjective1> country of <place>, a/an <animal> was <emotion>. The <animal> had lost its <noun>.
+In the <adjective1> country of <country>, a/an <noun1> was <emotion> because he had lost its <noun2>.
 
-Suddenly, a/an <animal> appeared. 'I will help you find your <noun>,' they said.
+Suddenly, a dog appeared. 'Don't be <emotion>. I will help you find her,' the dog said.
 
-Together, they journeyed through <place> and faced the <weather_condition>. Finally, they found the <object> in a <place2>. The <animal> was so <emotion2> and thanked the <character>. They lived <adverb> ever after.
+Together, they journeyed through <city> and faced the <weather_condition>. Finally, they found the <noun2> at a <place>. The <noun1> was so <emotion2> and thanked the dog. They lived <adverb> ever after.
